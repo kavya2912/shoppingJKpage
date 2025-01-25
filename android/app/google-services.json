@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514729095601",
+    "project_id": "shoppingjkpage-a0199",
+    "storage_bucket": "shoppingjkpage-a0199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514729095601:android:dfab1017bfe4c543c68d90",
+        "android_client_info": {
+          "package_name": "com.example.shoppingjkpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiObib_VKkw0qimMc3zi6vyPKgebF3AfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
